@@ -27,5 +27,5 @@ RHDB Lite V1 Usage
 RHDB V1 is not developed yet.
 Connecting with SQL, sending db with Image will be added (May be delayed)
 get last edited time, get db created date, a simple encryption will be added. 
-Command will be added. (Ex.Usage : "DELETE CATEGORY [category name]")
+Command will be added. (Ex.Usage : "CATEGORY DELETE [category name]")
 
